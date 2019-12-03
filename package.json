@@ -1,0 +1,16 @@
+{
+    "name": "adventofcode",
+    "version": "0.1.0",
+    "description": "Coding for xmas",
+    "repository": {
+        "url": "https://github.com/k-jefferson/adventofcode"
+    },
+    "license": "UNLICENSED",
+    "dependencies": {},
+    "devDependencies": {
+        "@types/mocha": "^5.2.7",
+        "@types/node": "^12.12.14",
+        "mocha": "^6.2.2",
+        "typescript": "^3.7.2"
+    }
+}
