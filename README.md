@@ -5,4 +5,4 @@ to run the app :
 node ./dist/src/app
 
 to run the unit tests:
-./node_modules/mocha/bin/mocha ./dist/tests/day1.js
+./node_modules/mocha/bin/mocha ./dist/tests/days.js

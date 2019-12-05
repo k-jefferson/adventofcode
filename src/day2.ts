@@ -5,9 +5,6 @@ export const day2 = (noun: number, verb: number): number => {
     const inputs = puzzleInputs.slice();
     inputs[1] = noun;
     inputs[2] = verb;
-
-    console.log(`first operation is ${inputs[1]} + ${inputs[2]} stored at position 3`);
-
     const inputLength = inputs.length;
 
     for (let i = 0; i < inputLength; i += 4) {
